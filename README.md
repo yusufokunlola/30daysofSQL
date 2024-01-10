@@ -10,7 +10,7 @@ The dataset to be used for the course is the [AdventureWorks Dataset](https://gi
 A summary of daily posts can be found [here](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing).
 
 ## Post Links
-| Day | Topic | LinkedIn | (X) Twitter |
+| Day | Topic | LinkedIn | X (Twitter) |
 |----------|----------|----------|----------|
 | 1    | Introduction and App Installation     | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-datamanagement-day1-activity-7147650421707198464-fMX9)     | [Twitter Link](https://x.com/yaokunlola/status/1741888701070737750)  |
 | 2    | CREATE TABLE, SELECT, and FROM Clauses     | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7147813762983460864-ujAt)     | [Twitter Link](https://x.com/yaokunlola/status/1742048071410946160)      |
@@ -21,3 +21,4 @@ A summary of daily posts can be found [here](https://docs.google.com/document/d/
 | 7    | LIMIT, OFFSET AND FETCH Clauses       | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7149664436557926400-oE8c)      | [Twitter Link](https://x.com/yaokunlola/status/1743899239975907611)   |
 | 8    | Dataset Import      | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-queries-postgresql-activity-7150018310351323136-hFfI)  |  [Twitter Link](https://x.com/yaokunlola/status/1744216384228192716)    |
 | 9    | ALTER TABLE and UPDATE Statements   | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7150380783780671489-E2gd)  |  [Twitter Link](https://x.com/yaokunlola/status/1744551752169378234)      |
+| 10 | Arithmetic Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7150749368071946240-CUrH) | [Twitter Link](https://x.com/yaokunlola/status/1744985349246316571) |
