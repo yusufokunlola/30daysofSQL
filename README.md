@@ -1,13 +1,20 @@
-# 30daysofSQL
-This is a 30-day SQL Challenge running from January 1st - 30th, 2024.
+# 30daysofSQL Challenge
+This SQL Challenge spans 30 days, starting on January 1st and concluding on the 30th of January 2024.
 
 I'll be sharing my learning on [LinkedIn](https://www.linkedin.com/in/yusufokunlola/) and [Twitter](https://twitter.com/yaokunlola).
-
-To join me on this journey, you can follow the roadmap offered by [GeekforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/).
-
-The dataset to be used for the course is the [AdventureWorks Dataset](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_dataset.zip). Download on your computer and unzip the file.
-
 A summary of daily posts can be found [here](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing).
+
+## Resources
+- [30 Days SQL Roadmap by GeekforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [pgAdmin4](https://www.pgadmin.org/download/pgadmin-4-windows/)
+
+## Installation Steps
+- [PostgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
+- [pgAdmin4](https://www.how2shout.com/how-to/2-ways-to-install-pgadmin-4-on-windows-11-or-10.html)
+
+## Dataset
+- [AdventureWorks Dataset](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_dataset.zip). Download it on your computer and unzip the file.
 
 ## Post Links
 | Day | Topic | LinkedIn | X (Twitter) |
@@ -22,3 +29,4 @@ A summary of daily posts can be found [here](https://docs.google.com/document/d/
 | 8    | Dataset Import      | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-queries-postgresql-activity-7150018310351323136-hFfI)  |  [Twitter Link](https://x.com/yaokunlola/status/1744216384228192716)    |
 | 9    | ALTER TABLE and UPDATE Statements   | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7150380783780671489-E2gd)  |  [Twitter Link](https://x.com/yaokunlola/status/1744551752169378234)      |
 | 10 | Arithmetic Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7150749368071946240-CUrH) | [Twitter Link](https://x.com/yaokunlola/status/1744985349246316571) |
+| 11 | Wildcard Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151098491698630656-Wu6J) | [Twitter Link](https://x.com/yaokunlola/status/1745333636809847199) |
