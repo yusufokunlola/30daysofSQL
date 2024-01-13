@@ -46,3 +46,5 @@ Happy SQLing! 💻
 | 10 | Arithmetic Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7150749368071946240-CUrH) | [Twitter Link](https://x.com/yaokunlola/status/1744985349246316571) |
 | 11 | Wildcard Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151098491698630656-Wu6J) | [Twitter Link](https://x.com/yaokunlola/status/1745333636809847199) |
 | 12 | WITH, CASE and EXISTS Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151437466455977984-Z9OS) | [Twitter Link](https://x.com/yaokunlola/status/1745673288704024806) |
+| 13 | DISTINCT Clause and Aggregate Functions | [LinkedIn Link]() | [Twitter Link](https://x.com/yaokunlola/status/1746009674971824500) |
+
