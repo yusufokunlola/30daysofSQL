@@ -20,6 +20,9 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 
 ## Installation Steps
 - [PostgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
+
+    **Note:** In Step 4, don't check `Stack Builder` and `pgAdmin 4`. Check `PostgreSQL Server` and `Command Line Tools` only.
+
 - [pgAdmin4](https://www.how2shout.com/how-to/2-ways-to-install-pgadmin-4-on-windows-11-or-10.html)
 
 ## Dataset
