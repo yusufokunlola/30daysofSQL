@@ -15,7 +15,7 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 ## Resources
 - [30 Days SQL Roadmap by GeekforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 - [PostgreSQL](https://www.postgresql.org/download/)
-- [pgAdmin4](https://www.pgadmin.org/download/pgadmin-4-windows/)
+- [pgAdmin4](https://www.pgadmin.org/download/)
 - [Learning Summary](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing)
 
 ## Installation Steps
@@ -27,7 +27,7 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
   Download it on your computer and unzip the file.
 
 ## Contact
-Reach out to me via [LinkedIn](https://www.linkedin.com/in/yusufokunlola/) or [Twitter](https://twitter.com/yaokunlola).
+Reach out to me via [LinkedIn](https://www.linkedin.com/in/yusufokunlola/) or [Twitter](https://x.com/yaokunlola).
 
 Happy SQLing! 💻 
 
@@ -47,5 +47,5 @@ Happy SQLing! 💻
 | 11 | Wildcard Operators | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151098491698630656-Wu6J) | [Twitter Link](https://x.com/yaokunlola/status/1745333636809847199) |
 | 12 | WITH, CASE and EXISTS Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151437466455977984-Z9OS) | [Twitter Link](https://x.com/yaokunlola/status/1745673288704024806) |
 | 13 | DISTINCT Clause and Aggregate Functions | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151822679665176577-T49w) | [Twitter Link](https://x.com/yaokunlola/status/1746009674971824500) |
-| 14 | ORDER BY and GROUP BY Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7152168472800636930-GRv1) | [Twitter Link](https://twitter.com/yaokunlola/status/1746401494474096643) |
-
+| 14 | ORDER BY and GROUP BY Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7152168472800636930-GRv1) | [Twitter Link](https://x.com/yaokunlola/status/1746401494474096643) |
+| 15 | Video: Creating GitHub Repo and editing README file | [LinkedIn Link](https://www.linkedin.com/in/yusufokunlola) | [Twitter Link](https://x.com/yaokunlola/status/1746679357429469469) |
