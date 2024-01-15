@@ -27,7 +27,7 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 
 ## Dataset
 - [AdventureWorks Dataset](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_dataset.zip).
-  Download it on your computer and unzip the file.
+     Download it on your computer and unzip the file.
 
 ## Contact
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/yusufokunlola/) or [Twitter](https://x.com/yaokunlola).
@@ -51,4 +51,4 @@ Happy SQLing! 💻
 | 12 | WITH, CASE and EXISTS Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151437466455977984-Z9OS) | [Twitter Link](https://x.com/yaokunlola/status/1745673288704024806) |
 | 13 | DISTINCT Clause and Aggregate Functions | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7151822679665176577-T49w) | [Twitter Link](https://x.com/yaokunlola/status/1746009674971824500) |
 | 14 | ORDER BY and GROUP BY Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7152168472800636930-GRv1) | [Twitter Link](https://x.com/yaokunlola/status/1746401494474096643) |
-| 15 | Video: Creating GitHub Repo and editing README file | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_creating-github-repo-and-editing-readme-activity-7152532355977547776-yJ5S) | [Twitter Link](https://x.com/yaokunlola/status/1746679357429469469) |
+| 15 | [Video](https://youtu.be/mElBfbNTIbU?si=VDOQVopegMwQ15wu): Creating GitHub Repo and editing README file | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_creating-github-repo-and-editing-readme-activity-7152532355977547776-yJ5S) | [Twitter Link](https://x.com/yaokunlola/status/1746679357429469469) |
