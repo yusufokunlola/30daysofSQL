@@ -47,6 +47,32 @@ FROM adventureworks_customers;
 -- PSQL Tool
 -- \copy adventureworks_customers FROM 'C:\Users\user\workspace\30daysSQL\AdventureWorks_dataset\adventureworks_customers.csv' csv header;
 
+/* While using the PSQL tool, the datestyle was out of range;
+
+Error Message: 
+ERROR:  date/time field value out of range: "5/14/1965"
+HINT:  Perhaps you need a different "datestyle" setting.
+CONTEXT:  COPY adventureworks_customer , line 2, column time: "5/14/1965"
+
+The error message implies that the date/time format in the CSV file does not match the expected format for PostgreSQL. 
+PostgreSQL expects date/time values to be in a specific format, typically in the ISO 8601 format (YYYY-MM-DD HH:MI:SS). 
+
+To resolve this; 
+Option A: The date/time format in the CSV file has to be adjusted to match PostgreSQL's expected format (YYYY-MM-DD HH:MI:SS), this would be the simplest solution.
+Option B: Set a custom datestyle setting for the session before running the \copy command.
+
+Working with Option B in PSQL tool
+Step 1: To reset the datestyle to its default value in PostgreSQL, you can use the RESET command.
+RESET datestyle;
+
+Step 2: Set datestyle using PSQL Tool import CSV file	
+Our datestyle: "5/14/1965" will be set on SQL to “MM-DD-YYY” format
+
+SET datestyle TO 'ISO, MDY';
+
+Step 3: Run the \copy command
+\copy adventureworks_customers FROM 'C:\Users\user\workspace\30daysSQL\AdventureWorks_dataset\adventureworks_customers.csv' csv header;
+*/
 
 ------------------------------------
 
