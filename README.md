@@ -29,6 +29,12 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 - [AdventureWorks Dataset](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_dataset.zip).
      Download it on your computer and unzip the file.
 
+
+![AdventureWorks Entity Relationship Diagram](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_ERD.JPG)
+
+**[Figure 1: AdventureWorks database schema](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_ERD.JPG)**
+
+
 ## Contact
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/yusufokunlola/) or [Twitter](https://x.com/yaokunlola).
 
