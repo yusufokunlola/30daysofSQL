@@ -13,7 +13,7 @@ You can read more about SQL via this article on [Wikipedia](https://en.wikipedia
 This SQL Challenge spans 30 days, starting on January 1st and concluding on the 30th of January 2024.
 
 ## Resources
-- [30 Days SQL Roadmap by GeekforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
+- [30 Days SQL Roadmap by GeeksforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [pgAdmin4](https://www.pgadmin.org/download/)
 - [Learning Summary](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing)
@@ -60,3 +60,4 @@ Happy SQLing! 💻
 | 15 | [Video](https://youtu.be/mElBfbNTIbU?si=VDOQVopegMwQ15wu): Creating GitHub Repo and editing README file | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_creating-github-repo-and-editing-readme-activity-7152532355977547776-yJ5S) | [Twitter Link](https://x.com/yaokunlola/status/1746679357429469469) |
 | 16 | [Video](https://youtu.be/0QYxdb4IdT4?si=Th0ksFgLTVR5J_bE): Apps setup (PostgreSQL and pgAdmin4) and writing your first SQL query | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_apps-setup-and-writing-your-first-sql-query-activity-7152894749262188544-wMCN) | [Twitter Link](https://x.com/yaokunlola/status/1747039040560349350) |
 | 17 | [Entity-Relationship Diagram (ERD)](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_EntityRelationshipDiagram.pgerd) | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7153257168727687168-oIoe) | [Twitter Link](https://x.com/yaokunlola/status/1747491437573550328) |
+| 18 | SQL Interviview Questions Review | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_top-100-most-asked-sql-questions-and-answers-activity-7153617230541271040-WDJp) | [Twitter Link](https://x.com/yaokunlola/status/1747852737352458498) |
