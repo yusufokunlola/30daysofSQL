@@ -30,6 +30,7 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
      Download it on your computer and unzip the file.
 
 
+## Database Schema
 ![AdventureWorks Entity Relationship Diagram](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_ERD.JPG)
 
 **[Figure 1: AdventureWorks database schema](https://github.com/yusufokunlola/30daysofSQL/blob/main/AdventureWorks_ERD.JPG)**
