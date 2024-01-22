@@ -65,3 +65,4 @@ Happy SQLing! 💻
 | 19 | SQL's Alias Statement and Set Operations – UNION, UNION ALL, INTERSECT and EXCEPT Statements | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7153994446286516224-0drb) | [Twitter Link](https://x.com/yaokunlola/status/1748227431490613259) |
 | 20 | SQL Join Statements (Inner, Left, Right, Full, Natural and Self Joins) | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7154391888077209600-8nBd) | [Twitter Link](https://x.com/yaokunlola/status/1748627692713361455) |
 | 21 | SQL USING Clause | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-sql-activity-7154851968597856256-VRFC) | [Twitter Link](https://x.com/yaokunlola/status/1749087227991212521) |
+| 22 | Joining three or more tables in SQL | [LinkedIn Link]() | [Twitter Link](https://x.com/yaokunlola/status/1749268734718382493) |
