@@ -70,3 +70,5 @@ Happy SQLing! 💻
 | 24 | Practice Questions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-30daysofsql-30daysofsql-activity-7155796755811287040-rhZG) | [Twitter Link](https://x.com/yaokunlola/status/1750031681103278142) |
 | 25 | Views and Role Creation  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7156135712025649152-DznZ) | [Twitter Link](https://x.com/yaokunlola/status/1750370888229192050) |
 | 26 | Constraints and Transactions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_github-yusufokunlola30daysofsql-this-activity-7156564163094335488-YfUE) | [Twitter Link](https://x.com/yaokunlola/status/1750799979390619711) |
+| 27 | Mathematical Functions and Date Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7156908886396928000-bMnz) | [Twitter Link](https://x.com/yaokunlola/status/1751143784430117337) |
+
