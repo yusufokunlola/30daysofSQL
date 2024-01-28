@@ -71,4 +71,4 @@ Happy SQLing! 💻
 | 25 | Views and Role Creation  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7156135712025649152-DznZ) | [Twitter Link](https://x.com/yaokunlola/status/1750370888229192050) |
 | 26 | Constraints and Transactions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_github-yusufokunlola30daysofsql-this-activity-7156564163094335488-YfUE) | [Twitter Link](https://x.com/yaokunlola/status/1750799979390619711) |
 | 27 | Mathematical Functions and Date Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7156908886396928000-bMnz) | [Twitter Link](https://x.com/yaokunlola/status/1751143784430117337) |
-
+| 28 | Conditional Expressions and String Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7157313057310855168-l5ZG) | [Twitter Link](https://x.com/yaokunlola/status/1751548542974324930) |
