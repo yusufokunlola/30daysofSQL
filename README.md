@@ -16,6 +16,7 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 - [30 Days SQL Roadmap by GeeksforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [pgAdmin4](https://www.pgadmin.org/download/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/devel/index.html)
 - [Learning Summary](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing)
 
 ## Installation Steps
@@ -72,3 +73,4 @@ Happy SQLing! 💻
 | 26 | Constraints and Transactions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_github-yusufokunlola30daysofsql-this-activity-7156564163094335488-YfUE) | [Twitter Link](https://x.com/yaokunlola/status/1750799979390619711) |
 | 27 | Mathematical Functions and Date Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7156908886396928000-bMnz) | [Twitter Link](https://x.com/yaokunlola/status/1751143784430117337) |
 | 28 | Conditional Expressions and String Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_30daysofsql-sql-dataanalysis-activity-7157313057310855168-l5ZG) | [Twitter Link](https://x.com/yaokunlola/status/1751548542974324930) |
+| 29 | Data Type Formatting Functions  | [LinkedIn Link](https://www.linkedin.com/posts/yusufokunlola_github-yusufokunlola30daysofsql-this-activity-7157607369298878466-_h3W) | [Twitter Link](https://x.com/yaokunlola/status/1751842204144812252) |
