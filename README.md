@@ -14,10 +14,11 @@ This SQL Challenge spans 30 days, starting on January 1st and concluding on the 
 
 ## Resources
 - [30 Days SQL Roadmap by GeeksforGeeks](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [pgAdmin4](https://www.pgadmin.org/download/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/devel/index.html)
-- [Learning Summary](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing)
+- [Learning Tracker Posts](https://docs.google.com/document/d/1eMcrvgagJM3xtbZc4a1KDpIkQGHYNNlk4tAM8DUGk7E/edit?usp=sharing)
 
 ## Installation Steps
 - [PostgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
